@@ -1,0 +1,7 @@
+<?php
+int i=0
+echo ++i;
+?>
+
+btu it dose not work you have change the variable declareation in to
+$i=0;
